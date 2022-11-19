@@ -1,3 +1,7 @@
 .hero {
-    background-image: url(/Users/coding/bootcamp/Week-1/Autumn-in-Catalochee-Valley./DSC09412.png);
+    background-image: url(/Users/coding/bootcamp/Week-1/Autumn-in-Catalochee-Valley./images/DSC09412.png);
+}
+
+body {
+    background-color: rgb(244, 224, 200);
 }
