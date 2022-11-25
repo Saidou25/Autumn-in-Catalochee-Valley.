@@ -1,7 +1,15 @@
 .hero {
-    background-image: url(./images/DSC09412.png)
+    background-image: url(./images/DSC09412.jpeg)
 }
 
 body {
     background-color: rgb(244, 224, 200);
+}
+
+.hero {
+    height: 290px;
+     background-image: url(../Autumn-in-Catalochee-Valley./images/pjelk.png);
+    width: 100%;
+    background-size: cover;
+   /* background-position: center;*/
 }
