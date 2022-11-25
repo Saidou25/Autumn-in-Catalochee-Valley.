@@ -3,12 +3,12 @@
 }
 
 body {
-    background-color: rgb(244, 224, 200);
+    background-color: rgb(235, 225, 213);
 }
 
 .hero {
     height: 290px;
-     background-image: url(../Autumn-in-Catalochee-Valley./images/pjelk.png);
+     background-image: url(../Autumn-in-Catalochee-Valley./images/e2.png);
     width: 100%;
     background-size: cover;
    /* background-position: center;*/
