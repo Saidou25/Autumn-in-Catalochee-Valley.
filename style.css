@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(235, 225, 213);
+}
+
+
+header {
+    background-image: url(./assets/images/DSC09412.png);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+
+
+
+h3 {
+    text-align: center;
+}
+
